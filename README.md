@@ -140,6 +140,7 @@ Model Context Protocol (MCP) servers that expose Web3 data and actions to AI ass
 - [Squid MCP](https://docs.squidrouter.com/api-and-sdk-integration/mcp) - MCP server connecting AI assistants to Squid Router for cross-chain token swaps across EVM chains; handles route quoting, execution, and transaction monitoring conversationally.
 - [Subgraph MCP Skills](https://github.com/PaulieB14/subgraph-mcp-skills) - Access to 15,000+ subgraphs via MCP.
 - [Thirdweb MCP](https://github.com/thirdweb-dev/ai) - 2,000+ blockchain read/write operations via MCP.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
